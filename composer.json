@@ -1,0 +1,12 @@
+{
+    "require": {
+        "slim/slim": "^2.6",
+        "snowcap/emarsys": "^1.0",
+        "guzzlehttp/guzzle": "^6.1"
+    },
+    "autoload": {
+        "psr-0": {
+            "Nico\\Emarsys": "src/"
+        }
+    }
+}
